@@ -1,6 +1,14 @@
 Project Ideas:
 
-==============
+    ==============
+       <<<<<<< feature/menna
+     - Menna: Create a team task manager web app
+     =======
 
-Osama Gamal (Build a weather app using an API)
-ahmed abdo  (Build a weather app using an API)
+ <<<<<<< feature/ahmed
+   Osama Gamal (Build a weather app using an API)
+  ahmed abdo  (Build a weather app using an API)
+   =======
+
+      >>>>>>> master
+  >>>>>>> master
