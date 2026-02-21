@@ -1,8 +1,13 @@
 Team Members :
 
 ==============
-     <<<<<<< feature/menna
-      menna (devops developer)
+    <<<<<<< feature/ahmed
+Osama Gamal (DevOps Engineer)
+    ahmed abdo  (devops)
       =======
+        <<<<<<< feature/menna
+      menna (devops developer)
+           =======
     >>>>>>> master
+  >>>>>>> master
 
