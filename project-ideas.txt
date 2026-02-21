@@ -1,4 +1,9 @@
 Project Ideas:
 
-==============
-- Menna: Create a team task manager web app
+    ==============
+       <<<<<<< feature/menna
+     - Menna: Create a team task manager web app
+     =======
+
+
+ >>>>>>> master
