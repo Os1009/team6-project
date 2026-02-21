@@ -1,0 +1,4 @@
+Name: Osama Gamal
+Role: DevOps Engineer
+Skills: Linux , Bash , Docker
+Hobby: Gaming
