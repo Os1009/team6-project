@@ -1,0 +1,5 @@
+Name: moamen lotfy
+Role: DevOps eng
+Skills: linux, bash, Git and GitHub
+Hobby: Gaming
+Fun fact: I can solve a Rubik's cube in under 2 minutes
