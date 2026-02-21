@@ -1,0 +1,6 @@
+Name: Menna
+Role: Frontend Developer
+Skills:devops, english , problem solving , programming
+Hobby: Gaming
+Fun fact: I can solve a Rubik's cube in under 2 minutes
+
